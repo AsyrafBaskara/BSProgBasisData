@@ -54,13 +54,7 @@ CREATE TABLE `message` (
 INSERT INTO `message` (`message_id`, `messenger`, `messenger_email`, `message`, `datereceived`) VALUES
 (7, 'tes6', 'tes6@gmail.com', 'tes6', '01/17/2022, 01:19 am'),
 (8, 'halo', 'tes@gmail.com', 'saya ingin jadi admin\r\n', '01/20/2022, 01:14 am'),
-(9, 'tes', 'tes@gmail.com', 'tes', '01/24/2022, 11:40 am'),
-(10, 'tes', 'tes@gmail.com', 'tes', '01/24/2022, 11:17 am'),
-(11, 'tes', 'tes@gmail.com', 'tes', '01/24/2022, 02:52 pm'),
-(12, 'tes', 'tes@gmail.com', 'tes', '01/24/2022, 02:29 pm'),
-(13, 'tes', 'tes@gmail.com', 'tes', '01/24/2022, 02:33 pm'),
-(14, 'tes', 'tes@gmail.com', 'tes', '01/24/2022, 02:47 pm'),
-(15, 'tes', 'tes@gmail.com', 'tes', '01/27/2022, 01:14 am');
+(15, 'Orang', 'tes@gmail.com', 'Despacito', '01/27/2022, 01:14 am');
 
 -- --------------------------------------------------------
 
